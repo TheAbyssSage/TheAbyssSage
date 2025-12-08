@@ -1,33 +1,21 @@
-# Hi, I'm Sage 👋
+# 💫 About Me:
+Hello,<br><br>My name is Sage, I am a student at SyntraPXL and am studying to be a Full Stack Developer.<br>My goals are to keep learning with the world evolving.<br>Thank you for your time
 
-I'm a **Full Stack Developer in training** at SyntraPXL. I build web apps, experiment with front‑end architecture and animations, and I love **music** and **games**.
 
-## What I'm working on
-- Refactoring “Santa’s Legacy Shop” into a modern **Vite + TypeScript** app
-- A **weather application** focused on clean UI and robust data handling
-- Exploring **microservices** with an **API Gateway** pattern
-- Game modding interests: **Minecraft** (Create + Cobblemon)
+## 🌐 Socials:
+[![Bluesky](https://img.shields.io/badge/bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=%23FFFFFF)](https://bsky.app/profile/TheAbyssSage) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sage-stockmans) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sage.stockmans@pm.me) 
 
-## Skills
-- Databases (design, normalization, SQL)
-- JavaScript • TypeScript • Angular
-- APIs and integration
-- PHP (OOP) • Laravel (basic)
-- Agile & Scrum
+# 💻 Tech Stack:
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=TheAbyssSage&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=TheAbyssSage&theme=tokyonight&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=TheAbyssSage&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## Tools & Tech
-- Vite, Webpack, Bootstrap
-- GSAP animations
-- Node.js, PHP
-- Meilisearch, Flask (learning)
-- bcrypt, Git/GitHub
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-## Learning & Interests
-- Front‑end architecture, performance, and scalability
-- Date/time logic and the **Temporal API**
-- Search & AI retrieval patterns
+---
+[![](https://visitcount.itsvg.in/api?id=TheAbyssSage&icon=0&color=9)](https://visitcount.itsvg.in)
 
-## Contact
-- Email: sage.stockmans@pm.me
-- LinkedIn: [add your profile]
-- Website: [add your site]
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
