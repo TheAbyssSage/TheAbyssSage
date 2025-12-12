@@ -1,3 +1,5 @@
+!(https://postimg.cc/5jqG6TMj)
+
 # 💫 About Me:
 Hello,<br><br>My name is Sage, I am a student at SyntraPXL and am studying to be a Full Stack Developer.<br>My goals are to keep learning with the world evolving.<br><br>Thank you for your time
 
