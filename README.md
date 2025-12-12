@@ -18,15 +18,16 @@ Hello,<br><br>My name is Sage, I am a student at SyntraPXL and am studying to be
 
 I help businesses transform ideas into digital reality:
 
-| Domain | Description |
+| Domain | What you get |
 | :--- | :--- |
-| **Frontend Magic** | Responsive and interactive UI's built with **Angular** & **Tailwind CSS**. |
-| **Backend Logic** | Secure API's and robust database architectures using **Laravel** & **MySQL**. |
-| **End-to-End** | Complete project handling: from Figma design to deployment. |
+| **Frontend Magic** | Smooth, responsive interfaces crafted with **Angular** and **Bootstrap**-fast, accessible, and delightful. |
+| **Backend Logic** | Hardened APIs and dependable data models powered by **Laravel** and **MySQL**—secure and scalable. |
+| **End-to-End** | Idea to launch: Figma mockups, iterative builds, testing, and deployment—handled ***start to finish***. |
 
 <br>
 
 # 📊 GitHub Stats
+
 ![](https://github-readme-stats.vercel.app/api?username=TheAbyssSage&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=TheAbyssSage&theme=tokyonight&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=TheAbyssSage&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
@@ -39,4 +40,4 @@ I help businesses transform ideas into digital reality:
 ---
 [![](https://visitcount.itsvg.in/api?id=TheAbyssSage&icon=0&color=0)](https://visitcount.itsvg.in)
 
-
+![image.gif](https://64.media.tumblr.com/d430c5fbd625c5933acac4322eef6bd3/tumblr_oqcx3uBdH21t7b5qro1_1280.gifv)
