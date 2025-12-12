@@ -1,4 +1,4 @@
-[![image.jpg](https://i.postimg.cc/NGWwPvJ8/image.jpg)](https://postimg.cc/5jqG6TMj)
+[![image.gif](https://windowscustomization.com/wp-content/uploads/2018/08/star-wars.gif)
 # 💫 About Me:
 Hello,<br><br>My name is Sage, I am a student at SyntraPXL and am studying to be a Full Stack Developer.<br>My goals are to keep learning with the world evolving.<br><br>Thank you for your time
 
