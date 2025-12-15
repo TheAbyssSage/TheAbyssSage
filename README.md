@@ -14,9 +14,9 @@ Hello,<br><br>My name is Sage, I am a student at SyntraPXL and am studying to be
 
 <br>
 
-## 🚀 Services Provided
+# 🚀 Services Provided
 
-I help businesses transform ideas into digital reality:
+I turn business ideas into robust, user-friendly digital products:
 
 | Domain | What you get |
 | :--- | :--- |
