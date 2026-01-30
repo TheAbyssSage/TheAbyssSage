@@ -29,7 +29,7 @@ https://sage-stockmans.netlify.app/
 
 <br><br>
 
-# Services Provided
+<!-- # Services Provided
 
 I turn business ideas into robust, user-friendly digital products:
 
@@ -39,7 +39,7 @@ I turn business ideas into robust, user-friendly digital products:
 | **Backend Logic** | Hardened APIs and dependable data models powered by **Laravel** and **MySQL**—secure and scalable. |
 | **End-to-End** | Idea to launch: Figma mockups, iterative builds, testing, and deployment—handled ***start to finish***. |
 
-<br><br>
+<br><br> -->
 
 # GitHub Stats
 
@@ -49,8 +49,8 @@ I turn business ideas into robust, user-friendly digital products:
 
 <br><br>
 
-### Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=TheAbyssSage&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<!-- ### Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=TheAbyssSage&limit=5&theme=dark&combine_all_yearly_contributions=true) -->
 
 ---
 [![](https://visitcount.itsvg.in/api?id=TheAbyssSage&icon=0&color=0)](https://visitcount.itsvg.in)
