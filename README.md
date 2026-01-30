@@ -1,11 +1,19 @@
 ![image.gif](https://windowscustomization.com/wp-content/uploads/2018/12/Battle-over-Kamino.gif)
-<h1> About Me </h1>
-Hello,<br><br>My name is Sage, I am a student at SyntraPXL and am studying to be a Full Stack Developer.<br>My goals are to keep learning with the world evolving.<br><br>Thank you for your time
+
+<h1>About Me</h1>
+
+Hello, my name is Sage. I’m currently studying to become a Full Stack Developer.<br><br>
+
+I’m fascinated by how much impact a well-built application can have—whether it’s making a website, security, and many other projects to be made. That’s why I enjoy working on both the visual side of a project and the logic behind it.<br><br>
+
+I’m always looking for new things to learn, new tools to experiment with, and opportunities to apply what I know in real projects. As the tech world keeps changing, I’m committed to growing along with it and becoming a better developer, enjoying the process along the way. (With some tears as well)<br><br>
+
+Thank you for your time and interest.
 
 <br>
 
 ## Socials
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sage-stockmans) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sage.stockmans@pm.me) 
+<----------
 
 <br>
 
