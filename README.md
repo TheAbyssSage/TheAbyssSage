@@ -79,7 +79,7 @@ motto: "Enjoy the process. Tears included."
         <img src="https://img.shields.io/badge/Wedding_Platform-LIVE-ff69b4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Weddings by Courtney AZ" />
       </a>
       <br>
-      <sub><b>💍 Stagnant Website</b></sub>
+      <sub><b>Stagnant Website</b></sub>
       <br>
       <sub>Full-featured wedding business platform. Elegant design meets robust functionality — built to showcase and manage wedding services seamlessly.</sub>
     </td>
@@ -88,16 +88,16 @@ motto: "Enjoy the process. Tears included."
         <img src="https://img.shields.io/badge/Portfolio-LIVE-8A2BE2?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfolio" />
       </a>
       <br>
-      <sub><b>📁 Personal Portfolio</b></sub>
+      <sub><b>Personal Portfolio</b></sub>
       <br>
-      <sub>My developer showcase — clean, responsive, and deployed on Netlify. A window into who I am and what I build.</sub>
+      <sub>My developer showcase. Clean, responsive, and deployed on Netlify. A window into who I am and what I build.</sub>
     </td>
     <td align="center" width="33%">
       <a href="https://productionserver.be/Halo-Services/" target="_blank">
         <img src="https://img.shields.io/badge/PDF_Webshop-LIVE-00BFFF?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white" alt="PDF Webshop" />
       </a>
       <br>
-      <sub><b>🛒 PDF Webshop</b></sub>
+      <sub><b>PDF Webshop</b></sub>
       <br>
       <sub>A custom PDF-based e-commerce solution. Users browse, select, and purchase digital products with a smooth UX flow.</sub>
     </td>
