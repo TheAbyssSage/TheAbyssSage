@@ -186,27 +186,8 @@ motto: "Enjoy the process. Tears included."
 
 <br>
 
-<!-- ==================== RANDOM DEV QUOTE ==================== -->
-<h2 align="center">Dev Wisdom</h2>
-
-<div align="center">
-  
-  ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true)
-  
-</div>
-
-<br>
-
----
-
-<br>
-
 <!-- ==================== FOOTER ==================== -->
 <div align="center">
-  
-  ![Visitor Count](https://visitcount.itsvg.in/api?id=TheAbyssSage&icon=5&color=6)
-
-  <br><br>
   
   <img src="https://64.media.tumblr.com/d430c5fbd625c5933acac4322eef6bd3/tumblr_oqcx3uBdH21t7b5qro1_1280.gifv" 
        alt="Star Wars Footer GIF" 
