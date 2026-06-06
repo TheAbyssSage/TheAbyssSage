@@ -84,7 +84,7 @@ motto: "Enjoy the process. Tears included."
       <sub>Full-featured wedding business platform. Elegant design meets robust functionality — built to showcase and manage wedding services seamlessly.</sub>
     </td>
     <td align="center" width="33%">
-      <a href="https://sage-stockmans.netlify.app/" target="_blank">
+      <a href="https://sage-stockmans.com" target="_blank">
         <img src="https://img.shields.io/badge/Portfolio-LIVE-8A2BE2?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfolio" />
       </a>
       <br>
